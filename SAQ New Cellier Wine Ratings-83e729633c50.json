@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saq-new-cellier-wine-ratings",
+  "private_key_id": "83e729633c506003c819554e90017b7d302e7283",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQ7nQOTVxjxYn/\n6hQ+GfoeIJGoBpc+qLbUGYV4vWOwn4EeHgwvoGfCCEAPCRkEGCumv5bHUl8D18cM\nEaeHrx/3o3Fy5RqyoR5I8xzxpWKas+Q/1zf7kuPwTSkiSaMiUUaom1jl/Rn9HzAw\nO5FyF7Y0DZEXQ79lYggvIU5wDL1ktz5G8MpVitCnosq3p+lh/Y/CYwita1mec9ee\n+SA4lA24kUp0hKyZauNEMOZh7uRqVNnvTlQglXUk7ivnpgcCC7sw5cMoQz2C9HjW\nKnyHj9iTq81m6MyGxb32xMH4D5KmgqR5Oauy7DfuZkHH34Z9CHS3Cc6dAvuxDDnD\nugoPD6ZlAgMBAAECggEAQw7BjfiHXfaBYnJ5CT7VtmjVXAwooKpJZZulYPcoEAnN\nIRVACC1MtL9CfHJ2K6nPUKjm57SaF9oX0+K7RBFoVhk+na2Zi7r2m0Q5SSl/lRrU\n6iD3WyRc6Mua062EmJVIfyzZlhhklPSARGDbbBHCkRUR49TJ0uvn436inz+Vxeo8\nsJON6ZrD4Ib7SYAOSWdlgRVqEqhnRc7VdQeEDk+GuNHFmv87K74MYLXVG1+NQzlZ\nKXpJTyMg+cGAArH1PCyPm1eFEXNW/oBLXIIj364WdeSfOWN4RHS0TiHnEDN/atQB\nVqizakHc1VAlZ6DvpmPGIHO5sJ65LsBch9f2187rhQKBgQDJNyOW11Zq/z41/fZx\nce20U1CxkjlvjBZmxWkhaYl1Ptdnr85OAy6lva5Y8v5shO+ljop/BHDd/a4eKbUS\nrZoEB1oI517J5shH/A7y57A/eqIimu/UocI1es6UendiEYATKmuRCSo3jlsIRtX1\nqf9LsEaKTv3T94obKgSv9XAgYwKBgQC4ZEhwkHFsZHMJNcTSA8Cb2Y6JHl2FJilf\nw3Xdg2RqFv8AHcO7gSlAlWi6hc3oeCudkFNsWBsZpickW4t+acnUvtLrTeYTxdm5\n7M/QbJ6mMTMGkww6ew+8BtRbC4ygebH3XOMBysPxRSnONgYAKz0gpkz8sW9NuFSH\nKq2AzVkElwKBgEDxKutkVN/zwYBrlz7GJpIs0b5+E0uNSy2gSW4fQd41ihBNDajg\nHg4gSkUrKDKeNTqZ5tlX9ZWwaqIRk/+TSEJEnSqCgnVnpvyUvb5oSNo0GmBQ4Vcf\nXi8kk8gYPq/INi35Yv5MlvOXXootUqEXXO5w1lONax8epdRem2SvMqFBAoGAFeue\nDPuu8DLU1iB1QH4/tIddgYGBnqWVv5Ot/GJ1WoNXVz0ymqTVMZ9RbvMfMmau0LFq\nqXOj7R2qg5D6eVG8M7Vnv59oHaukoYy8e8ud5KXuqfZrOryMd07cieJKmn09IeoB\n9qGTP6h4OtKDThvVzX7Xoia506R5MARr0ecXkQsCgYBnHHlwjR6uzWnPfUQHmddJ\nPYLJNCL9jqjOF7b26XZ0nc7Mh3eLc00aE8KGCnmq5QXF3Pzo6dXR2LDTLFkIVJX3\nnBNoo1BOq75IMNfLi5ejGCRO38jUmhQofJhvinHfGiAnQ0s4vFfbFJOhOfdGjQn2\nH7m0++sJ4XJIBuDSmn2qdw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "editor-saq@saq-new-cellier-wine-ratings.iam.gserviceaccount.com",
+  "client_id": "115395505779619893947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/editor-saq%40saq-new-cellier-wine-ratings.iam.gserviceaccount.com"
+}
